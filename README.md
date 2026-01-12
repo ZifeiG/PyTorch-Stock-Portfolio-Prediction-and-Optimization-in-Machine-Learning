@@ -3,6 +3,6 @@ This repository contains the experimental code and data processing scripts for m
 
 ## Authors
 Zifei Gao  
-Mathematics Depratment, Technical University of Munich
-Examiner: Prof. Dr. Suvrit Sra
-Supervisors: Xuhui Zhang, Hoomaan Maskan
+Mathematics Depratment, Technical University of Munich;
+Examiner: Prof. Dr. Suvrit Sra;
+Supervisors: Xuhui Zhang, Hoomaan Maskan.
